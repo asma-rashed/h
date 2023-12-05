@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+    font-family: 'Trebuchet MS';
+}
+.mainImg{
+    height: 18%;
+    display: flex;
+    justify-content: center;
+}
+.centerText{
+    text-align: center;
+}
+.navbar{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#saddo{
+    height: 50px;
+}
+.navlinks{
+    margin: 0px 10px 0px 10px;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+.navlinks:hover{
+    text-decoration: underline;
+    color:brown;
+}
+h3{
+    margin: 2%;
+}
+.clothImg{
+    height: 200px;
+    margin: 10px;
+    align-items: center;
+}
+.clothDiv{
+    display: flex;
+    justify-content: center;
+}
+.flexDivs{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.foodImg{
+    height: 130px;
+}
